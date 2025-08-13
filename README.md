@@ -22,4 +22,8 @@ Built to highlight my journey as an **Electrical Engineer & Tech Enthusiast** wi
 
 ---
 
-## 📂 Project Structure
+## 📂 Projects
+- 🛒 Flipkart Clone
+
+A fully functional **Flipkart-inspired e-commerce website** built for learning and practice purposes.  
+This project replicates the **UI and basic features** of Flipkart, including product listings, search, and cart functionality.
